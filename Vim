@@ -1,1 +1,7 @@
+vim ~/.vimrc
+set number
 
+3 Commands:
+set tabspace = 6
+colorscheme badwolf
+let mapleader = "."
